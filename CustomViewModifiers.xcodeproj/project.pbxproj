@@ -11,6 +11,7 @@
 		02D99B7829FDC358004CB4E0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 02D99B7729FDC358004CB4E0 /* Assets.xcassets */; };
 		02D99B7B29FDC358004CB4E0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 02D99B7A29FDC358004CB4E0 /* Preview Assets.xcassets */; };
 		02D99B8229FDC419004CB4E0 /* ViewModifierReusable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02D99B8129FDC419004CB4E0 /* ViewModifierReusable.swift */; };
+		02D99B8429FED2DA004CB4E0 /* ButtonCustomStyles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02D99B8329FED2DA004CB4E0 /* ButtonCustomStyles.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		02D99B7729FDC358004CB4E0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		02D99B7A29FDC358004CB4E0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		02D99B8129FDC419004CB4E0 /* ViewModifierReusable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModifierReusable.swift; sourceTree = "<group>"; };
+		02D99B8329FED2DA004CB4E0 /* ButtonCustomStyles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonCustomStyles.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				02D99B8129FDC419004CB4E0 /* ViewModifierReusable.swift */,
 				02D99B7729FDC358004CB4E0 /* Assets.xcassets */,
 				02D99B7929FDC358004CB4E0 /* Preview Content */,
+				02D99B8329FED2DA004CB4E0 /* ButtonCustomStyles.swift */,
 			);
 			path = CustomViewModifiers;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			files = (
 				02D99B8229FDC419004CB4E0 /* ViewModifierReusable.swift in Sources */,
 				02D99B7429FDC355004CB4E0 /* CustomViewModifiersApp.swift in Sources */,
+				02D99B8429FED2DA004CB4E0 /* ButtonCustomStyles.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
