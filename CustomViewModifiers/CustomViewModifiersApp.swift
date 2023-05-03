@@ -11,7 +11,7 @@ import SwiftUI
 struct CustomViewModifiersApp: App {
     var body: some Scene {
         WindowGroup {
-            ViewModifierReusable()
+            AnyTransitions()
         }
     }
 }
